@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm samyak-oops</h1>
+<h1 align="center">Hi 👋, I'm samyak</h1>
 <h3 align="center">A passionate frontendAspiring software engineer skilled in full-stack development and machine learning, with hands-on experience building real-world projects using React, Node.js, and Python. Strong in DSA and core CS fundamentals, focused on writing clean, scalable code and solving practical problems. Actively seeking opportunities to contribute and grow as a developer. developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyak-oops&label=Profile%20views&color=0e75b6&style=flat" alt="samyak-oops" /> </p>
