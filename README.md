@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samyak
 ===============================================================================================================================
 
-Web Developer and AI/ML Developer
+AI/ML Developer
 ---------------------------------
 
 A passionate frontendAspiring software engineer skilled in full-stack development and machine learning, with hands-on experience building real-world projects using React, Node.js, and Python. Strong in DSA and core CS fundamentals, focused on writing clean, scalable code and solving practical problems. Actively seeking opportunities to contribute and grow as a developer.
